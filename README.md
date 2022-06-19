@@ -1,1 +1,2 @@
-# next.js is React's FW
+# Next.js is React's framework.
+
