@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           <a href="https://nextjs.org">
-	  <img src="/Nextjs-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
+	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
 	<br />
 	このページはNext.jsのインストールが成功したら、
