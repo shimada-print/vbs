@@ -1,4 +1,4 @@
-# VBS（VisualBasicScript）で  
+# VBS（VisualBasicScript）で
 コマンド操作を省くと楽です
 このリポジトリは、貴方のPCやローカルホストなどで開発する時に、  
 コマンドで文字入力しなくても、ダブルクリックするだけで、  
