@@ -4,7 +4,7 @@
 コマンドで文字入力しなくても、ダブルクリックするだけで、  
 起動などをするスクリプトの置き場です。  
 
-Windowsも.js（JavaScript）がありますが、Next.jsなどの書類と  
+Windowsも.js（MS JavaScript）がありますが、Next.jsなどの書類と  
 混同する危険もあるのと、VBSは業務で昔から使われてきたので、  
 .vbsにしています。  
 
