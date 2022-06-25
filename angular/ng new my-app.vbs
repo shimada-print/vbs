@@ -1,6 +1,6 @@
 Set oWshShell = CreateObject("WScript.Shell")
 
-'cmd /k でプロンプトが消えるのを防ぐ
+'cmd /k でプロンプトが消えるのを防ぎます
 oWshShell.Run "cmd /k ng new my-app"
 
 'Would you like to add Angular routing? (y/N) y
