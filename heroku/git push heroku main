@@ -1,0 +1,4 @@
+Set oWshShell = CreateObject("WScript.Shell")
+
+'code deploy
+oWshShell.Run "cmd /k git push heroku main"
